@@ -16,6 +16,19 @@ For every 6 slots you have, you add an additional 6, 5, 4, 3, 2, and 1 to your p
 
 If you have a remainder, you may also add that number to your pool as well.
 
+#### Example Assignment
+
+[Humans](/Species/Human) start with the stats for [Living Creatures](/Species/Types/Living).
+
+| Attribute | Slot 1 | Slot 2 | Slot 3 | Total |
+|-|-|-|-|-|
+| SIZ | (6) | 4 | - | 10 |
+| CON | 6 | 4 | 4 | 14 |
+| DEX | 6 | 3 | 3 | 12 |
+| STR | 6 | 6 | 4 | 16 |
+| CHA | 2 | 3 | 3 | 8 |
+| INT | 5 | 5 | 2 | 12 |
+| WIS | 5 | 5 | 2 | 12 |
 
 # Expansion
 
