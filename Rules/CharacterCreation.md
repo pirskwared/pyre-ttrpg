@@ -1,8 +1,12 @@
 # Character Creation
 
+## Expansion
+
+Your GM determines the amount of [Expansion Points](/Rules/CharacterExpansion.md) you start with. 10 to 20 XP is recommended.
+
 ## Choose a Species
 
-See [Species](/Species)
+See [Species](/Species). The GM determines the list of available species. Some species cost XP, while others have a negative cost, so you gain XP instead.
 
 ## Assign Attributes
 
@@ -21,20 +25,14 @@ If you have a remainder, you may also add that number to your pool as well. For 
 An example [Human](/Species/Human) attribute assignment.
 
 | Attribute | Base | Slot 1 | Slot 2 | Slot 3 | Total |
-|-|-|-|-|-|
-| Size | 6 | 4 | - | - | 10 |
-| Constitution | 0 | 6 | 4 | 4 | 14 |
-| Dexterity | 0 | 6 | 3 | 3 | 12 |
-| Strength | 0 | 6 | 6 | 4 | 16 |
-| Charm | 0 | 2 | 3 | 3 | 8 |
-| Intelligence | 0 | 5 | 5 | 2 | 12 |
-| Wisdom | 0 | 5 | 5 | 2 | 12 |
-
-## Expansion
-
-Your GM determines the amount of XP you start with. 10 to 20 XP is recommended.
-
-See [Character Expansion](/Rules/CharacterExpansion.md)
+|-|-|-|-|-|-|
+| Size | 6 | 4 | - | - | 10 (+0)|
+| Constitution | 0 | 6 | 4 | 4 | 14 (+4) |
+| Dexterity | 0 | 6 | 3 | 3 | 12 (+2) |
+| Strength | 0 | 6 | 6 | 4 | 16 (+6) |
+| Charm | 0 | 2 | 2 | 3 | 7 (-3) |
+| Intelligence | 0 | 5 | 5 | 3 | 13 (+3) |
+| Wisdom | 0 | 5 | 5 | 2 | 12 (+2) |
 
 ## Backstory
 
