@@ -2,11 +2,11 @@
 
 ## Choose a Species
 
-See [Species]()
+See [Species](/Species)
 
 ## Assign Attributes
 
-To boost your attributes, you get a pool of numbers, and you assign those numbers to attribute slots. 
+To boost your attributes, you get a pool of numbers, and you assign those numbers to attribute slots. You must fill each slot with at least one number
 
 Your starting maximum value for each attribute is the sum of the numbers in each attribute's slot, plus any species modifiers.
 
@@ -14,21 +14,21 @@ Each creature starts with one 6, one 5, one 4, one 3, one 2, and one 1 in their 
 
 For every 6 slots you have, you add an additional 6, 5, 4, 3, 2, and 1 to your pool.
 
-If you have a remainder, you may also add that number to your pool as well.
+If you have a remainder, you may also add that number to your pool as well. For example, if you have 19 slots, you add an additional 1 to your pool.
 
 ### Example Assignment
 
-[Humans](/Species/Human) start with the stats for [Living Creatures](/Species/Types/Living).
+An example [Human](/Species/Human) attribute assignment.
 
-| Attribute | Slot 1 | Slot 2 | Slot 3 | Total |
+| Attribute | Base | Slot 1 | Slot 2 | Slot 3 | Total |
 |-|-|-|-|-|
-| Size | (6) | 4 | - | 10 |
-| Constitution | 6 | 4 | 4 | 14 |
-| Dexterity | 6 | 3 | 3 | 12 |
-| Strength | 6 | 6 | 4 | 16 |
-| Charm | 2 | 3 | 3 | 8 |
-| Intelligence | 5 | 5 | 2 | 12 |
-| Wisdom | 5 | 5 | 2 | 12 |
+| Size | 6 | 4 | - | - | 10 |
+| Constitution | 0 | 6 | 4 | 4 | 14 |
+| Dexterity | 0 | 6 | 3 | 3 | 12 |
+| Strength | 0 | 6 | 6 | 4 | 16 |
+| Charm | 0 | 2 | 3 | 3 | 8 |
+| Intelligence | 0 | 5 | 5 | 2 | 12 |
+| Wisdom | 0 | 5 | 5 | 2 | 12 |
 
 ## Expansion
 
