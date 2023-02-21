@@ -2,16 +2,6 @@
 
 To see the rules for Pyre, check out our [Wiki](https://github.com/pirskwared/pyre-ttrpg/wiki)
 
-Pyre is a tabletop role playing game. The game is run and moderated by one or more Game Masters (GMs), and each other player controls one or more characters in the Game Master's world.
-
-- [Wiki](/Wiki)
-  - [Character Creation](/Rules/CharacterCreation.md)
-- [Species](/Species)
-- [Abilities](/Abilities)
-- [Items](/Items)
-- [Magic](/Magic)
-- 
-
 # License
 
 THIS CONTENT IS NOT LICENSED UNDER THE OGL
