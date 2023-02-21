@@ -32,26 +32,25 @@ An example [Human](/Species/Human) attribute assignment.
 
 #### Dice Pool
 
-| Base | 6 Slots | 12 Slots | 18 Slots | 19 Slots |
-|-|-|-|-|-|
-| ~~6~~ | ~~6~~ | ~~6~~ | ~~6~~ | |
-| ~~5~~ | ~~5~~ | ~~5~~ | ~~5~~ | |
-| ~~4~~ | ~~4~~ | ~~4~~ | ~~4~~ | |
-| ~~3~~ | ~~3~~ | ~~3~~ | ~~3~~ | |
-| ~~2~~ | ~~2~~ | ~~2~~ | 2 | |
-| 1 | 1 | 1 | 1 | 1 |
+| Dice Pool | | | | | | |
+|-|-|-|-|-|-|-|
+| Base | 6 | 5 | 4 | 3 | 2 | 1 |
+| 6th Slot | 6 | 5 | 4 | 3 | 2 | 1 |
+| 12th Slot | 6 | 5 | 4 | 3 | 2 | 1 |
+| 18th Slot | 6 | 5 | 4 | 3 | 2 | 1 |
+| 19th Slot |  |  |  |  |  | 1 |
 
 #### Assignment
 
 | Attribute | Base | Slot 1 | Slot 2 | Slot 3 | Total |
 |-|-|-|-|-|-|
-| Size | 6 | 4 | - | - | 10 (+0)|
 | Constitution | 0 | 6 | 4 | 4 | 14 (+4) |
 | Dexterity | 0 | 6 | 3 | 3 | 12 (+2) |
 | Strength | 0 | 6 | 6 | 4 | 16 (+6) |
 | Charm | 0 | 2 | 2 | 3 | 7 (-3) |
 | Intelligence | 0 | 5 | 5 | 3 | 13 (+3) |
 | Wisdom | 0 | 5 | 5 | 2 | 12 (+2) |
+| Size | 6 | 4 | - | - | 10 (+0)|
 
 ## Backstory
 
