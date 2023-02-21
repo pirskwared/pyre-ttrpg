@@ -2,7 +2,7 @@
 
 ## Expansion
 
-Your GM determines the amount of [Expansion Points (XP)](/Rules/CharacterExpansion.md) you start with.
+Your GM determines the amount of [Expansion Points (XP)](/Wiki/Characters/Expansion.md) you start with.
 
 100 XP is recommended.
 
