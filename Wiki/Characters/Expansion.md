@@ -45,3 +45,5 @@ For example, if you wanted to boost Strength from 11 to 13, you would first buy 
 | 20 | | | | | | | |
 | 21 | | | | | | | |
 | ... | ... | | | | | | |
+
+Thus, any character with all 7 attributes at 10 would already have a total of 38 500 XP!
