@@ -2,7 +2,7 @@
 
 ## Expansion
 
-Your GM determines the amount of [Expansion Points](/Rules/CharacterExpansion.md) you start with.
+Your GM determines the amount of [Expansion Points (XP)](/Rules/CharacterExpansion.md) you start with.
 
 100 XP is recommended.
 
@@ -44,20 +44,16 @@ An example [Human](/Species/Human) attribute assignment.
 
 | Attribute | Base | Slot 1 | Slot 2 | Slot 3 | Total |
 |-|-|-|-|-|-|
-| Constitution | 0 | 6 | 4 | 4 | 14 (+4) |
-| Dexterity | 0 | 6 | 3 | 3 | 12 (+2) |
-| Strength | 0 | 6 | 6 | 4 | 16 (+6) |
-| Charm | 0 | 2 | 2 | 3 | 7 (-3) |
-| Intelligence | 0 | 5 | 5 | 3 | 13 (+3) |
-| Wisdom | 0 | 5 | 5 | 2 | 12 (+2) |
-| Size | 6 | 4 | - | - | 10 (+0)|
-
-## Backstory
-
-Your character can have any backstory you like, and it is recommended that you spend your starting XP on abilities that align with your backstory.
+| Strength (STR) | 0 | 6 | 6 | 4 | 16 (+6) |
+| Dexterity (DEX) | 0 | 6 | 3 | 3 | 12 (+2) |
+| Constitution (CON) | 0 | 6 | 4 | 4 | 14 (+4) |
+| Intelligence (INT) | 0 | 5 | 5 | 3 | 13 (+3) |
+| Wisdom (WIS) | 0 | 5 | 5 | 2 | 12 (+2) |
+| Charm (CHA) | 0 | 2 | 2 | 3 | 7 (-3) |
+| Size (SIZ) | 6 | 4 | - | - | 10 (+0)|
 
 ## Equipment
 
-Your GM determines your starting wealth, but it is recommended to simply allow players to spend 1 XP on each gold piece they would like to start the game with.
+Your GM determines your starting wealth.
 
-The equipment and wealth you start with can have any backstory you like. For example, starting with 10 gp or more might indicate noble birth, or a rich benefactor. Alternatively, if you chooses to purchase a large asset at character creation, perhaps a magic item or expensive equipment, it might be a family heirloom or inheritance rather than a simple purchase.
+It is recommended to allow players to spend 1 XP on each gold piece they would like to start the game with.
