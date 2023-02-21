@@ -1,6 +1,6 @@
 # Welcome to Pyre, the tabletop role-playing game
 
-To see the rules for Pyre, check out our [Wiki](https://github.com/pirskwared/pyre-ttrpg/wiki)
+To see the rules for Pyre, check out the [Wiki Folder](/Wiki)
 
 # License
 
