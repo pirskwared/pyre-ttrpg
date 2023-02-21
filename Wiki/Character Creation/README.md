@@ -14,7 +14,7 @@ The GM determines the list of available species.
 
 Some species cost XP, while others have a negative cost, so you gain XP instead.
 
-## Assign Attributes
+## Assign Attributes and Size
 
 To boost your attributes, you get a pool of numbers, and you assign those numbers to attribute slots. You must fill each slot with at least one number.
 
