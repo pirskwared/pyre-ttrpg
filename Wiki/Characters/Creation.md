@@ -20,27 +20,25 @@ To boost your attributes, you get a pool of numbers, and you assign those number
 
 Your starting maximum value for each attribute is the sum of the numbers in each attribute's slot, plus any species modifiers.
 
-Each creature starts with one 6, one 5, one 4, one 3, one 2, and one 1 in their pool.
+It is recommended that players begin with four 6s, four 5s, four 4s, four 3s, four 2s, and four 1s.
 
-For every 6 slots you have, you add an additional 6, 5, 4, 3, 2, and 1 to your pool.
-
-If you have a remainder, you may also add that number to your pool as well. For example, if you have 19 slots, you add an additional 1 to your pool.
+Optionally, you could have players [purchase their attributes with XP](/Wiki/Characters/Expansion.md), and allow them to choose any size within their species' minimum and maximum. If you do so, raise their starting XP by 20 000.
 
 ### Example Assignment
 
 An example [Human](/Species/Human) attribute assignment.
 
-#### Dice Pool
-
 | Dice Pool | | | | | | |
 |-|-|-|-|-|-|-|
-| Base | 6 | 5 | 4 | 3 | 2 | 1 |
-| 6th Slot | 6 | 5 | 4 | 3 | 2 | 1 |
-| 12th Slot | 6 | 5 | 4 | 3 | 2 | 1 |
-| 18th Slot | 6 | 5 | 4 | 3 | 2 | 1 |
-| 19th Slot |  |  |  |  |  | 1 |
+|  | 6 | 5 | 4 | 3 | 2 | 1 |
+|  | 6 | 5 | 4 | 3 | 2 | 1 |
+|  | 6 | 5 | 4 | 3 | 2 | 1 |
+|  | 6 | 5 | 4 | 3 | 2 | 1 |
 
-#### Assignment
+We know we want to be size 10, so we apply one of the 4s to Size.
+
+Next, we want a good STR, so we assign two of the 6s to STR, and the remaining two 6s to DEX and CON.
+
 
 | Attribute | Base | Slot 1 | Slot 2 | Slot 3 | Total |
 |-|-|-|-|-|-|
