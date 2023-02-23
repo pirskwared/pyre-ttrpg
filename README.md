@@ -1,6 +1,6 @@
 # Welcome to Pyre, the tabletop role-playing game
 
-To see the rules for Pyre, check out the [Wiki Folder](/Wiki)
+To see the rules for Pyre, check out the [Wiki Folder](/Wiki), or check out [Creating a Character](/Wiki/Characters/Creation.md) to get started!
 
 # License
 
