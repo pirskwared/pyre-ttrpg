@@ -1,8 +1,10 @@
 # Expansion Points (XP)
 
-A character can spend XP to train, boosting 
+A character can spend XP to train, which can be used to increase an attribute, acquire a feature, or increase the training bonus to a statistic or a skill.
 
 Characters cannot normally spend XP to change their Size.
+
+## Training
 
 Training normally takes 1 day per 10 XP spent.
 
