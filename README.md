@@ -1,6 +1,8 @@
-# Welcome to Pyre, the tabletop role-playing game
+# The Pyre Tabletop Role Playing Ruleset
 
-To see the rules for Pyre, check out the [Wiki Folder](/Wiki), or check out [Creating a Character](/Wiki/Characters/Creation.md) to get started!
+Pyre is a ruleset for playing tabletop role playing games in fantasy worlds.
+
+To see the rules for Pyre, check out the [Wiki](/Wiki), or check out [Creating a Character](/Wiki/Characters/Creation.md) to get started!
 
 # License
 
