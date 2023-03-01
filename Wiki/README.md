@@ -10,4 +10,3 @@ Pyre is a tabletop role playing game designed for players who are familiar with 
 - Rules
 - Species
 - Traits
-- Worlds
