@@ -12,22 +12,6 @@ However, Pyre is not necessarily one specific setting.
 
 Pyre sets a general tone and provides rules while the Game Master provides specific geography and narrative.
 
-## Tests
-
-To perform a test, a d20 is rolled and modifiers are applied, and the total is compared to a target value.
-
-If the total equals or exceeds the target, the test succeeds.
-
-If not, it fails.
-
-### Criticals
-
-Most, but not all, tests use critical rules.
-
-If the d20 rolls a 20, the test automatically succeeds, and you succeed by a minimum of 1.
-
-If the d20 rolls a 1, the test automatically fails, and you fail by a minimum of 1
-
 ## Time
 
 Time is divided into 6-second rounds, during which each creature gets 6 Action Points.
