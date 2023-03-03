@@ -34,3 +34,10 @@ The GM compares the result to the relevant Difficulty number.
 
 Some skills have difficulty numbers that are more specific, see [Skills](/Skills.md) more more info.
 
+### Criticals
+
+Most, but not all tests use critical rules.
+
+If the d20 rolls a natural 20, the test automatically succeeds, regardless of result. You succeed by a minimum of 1.
+
+If the d20 rolls a natural 1, the test automatically fails, and you fail by a minimum of 1.
