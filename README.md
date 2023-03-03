@@ -1,4 +1,4 @@
-# The Pyre Tabletop Role Playing Ruleset
+# Pyre, The Tabletop Role Playing Game
 
 Pyre is a ruleset for playing tabletop role playing games in fantasy worlds.
 
