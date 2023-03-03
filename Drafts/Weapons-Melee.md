@@ -1,6 +1,7 @@
 
 
 | Dice | Size Cost |
+|-|-|
 | d1 | 1 |
 | d2 | 2 |
 | d3 | 3 |
@@ -16,6 +17,20 @@
 | Wielder's Size +2 | 7 AP | 6 AP |
 | Wielder's Size +1 | 6 AP | 5 AP |
 | Wielder's Size | 5 AP | 4 AP |
-| Wielder's Size -1 | 4 AP | 4 AP |
+| Wielder's Size -1 | 4 AP | 5 AP |
 | Wielder's Size -2 or less | 3 AP | 4 AP |
 | 1/2 Wielder's Size or less | 2 AP | 3 AP |
+
+If weapon is smaller than wielder, 
+
+If weapon is greater than wielder, 1 H +1
+
+Size 10
+11
+10
+9
+
+# Multiple Arms
+
+For each additional arm, increase the AP to swing by 1.
+For each additional arm, add one die to the damage of the weapon.
