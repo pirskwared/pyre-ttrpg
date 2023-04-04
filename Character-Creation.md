@@ -37,11 +37,6 @@ An example [Human](/Species/Human) attribute assignment.
 |  | 6 | 5 | 4 | 3 | 2 | 1 |
 |  | 6 | 5 | 4 | 3 | 2 | 1 |
 
-We know we want to be size 10, so we apply one of the 4s to Size.
-
-Next, we want a good STR, so we assign two of the 6s to STR, and the remaining two 6s to DEX and CON.
-
-
 | Attribute | Base | Slot 1 | Slot 2 | Slot 3 | Total |
 |-|-|-|-|-|-|
 | Strength (STR) | 0 | 6 | 6 | 4 | 16 (+6) |
