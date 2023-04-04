@@ -1,6 +1,6 @@
 # Pyre, The Tabletop Role Playing Game
 
-Pyre is a ruleset for playing tabletop role playing games in fantasy worlds.
+Pyre is a ruleset for playing homebrew tabletop role playing games in fantasy worlds.
 
 # License
 
