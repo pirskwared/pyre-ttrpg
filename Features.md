@@ -2,4 +2,4 @@
 
 | Name | Notes |
 |-|-|
-| [Power Attack](/Features/Power-Attack.md) | |
+| [Power Attack](/Features/Power-Attack.md) | - |
