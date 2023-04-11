@@ -28,7 +28,7 @@ If you do so, raise their starting XP by 59 000.
 
 ### Example Assignment
 
-An example [Human](/Species/Human) attribute assignment.
+An example [Human](/Species/Human.md) attribute assignment.
 
 | Dice Pool | | | | | | |
 |-|-|-|-|-|-|-|
