@@ -2,7 +2,7 @@
 
 ## Expansion
 
-Your GM determines the amount of [Expansion Points (XP)](/Wiki/Characters/Expansion.md) you start with.
+Your GM determines the amount of [Expansion Points (XP)](/Character-Expansion.md) you start with.
 
 A starting XP total of around 1000 XP is recommended.
 
@@ -22,7 +22,7 @@ Your starting maximum value for each attribute is the sum of the numbers in each
 
 It is recommended that players begin with four 6s, four 5s, four 4s, four 3s, four 2s, and four 1s.
 
-Optionally, you could have players [purchase their attributes with XP](/Wiki/Characters/Expansion.md), and allow them to choose any size within their species' minimum and maximum.
+Optionally, you could have players [purchase their attributes with XP](/Character-Expansion.md), and allow them to choose any size within their species' minimum and maximum.
 
 If you do so, raise their starting XP by 59 000.
 
